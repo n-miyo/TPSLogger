@@ -1,0 +1,36 @@
+TPSLogger
+====================
+
+
+DESCRIPTION
+--------------------
+
+Simple Logger module for Unity + C#.
+
+
+PLATFORM
+--------------------
+
+Unit 4.6 and later.
+
+
+USAGE
+--------------------
+
+See [Logger.cs](Assets/Scripts/Logger.cs) and/or [LoggerTests.cs](Assets/Editor/LoggerTests.cs), sorry.
+
+
+AUTHOR
+--------------------
+
+MIYOKAWA, Nobuyoshi
+
+* E-Mail: n-miyo@tempus.org
+* Twitter: nmiyo
+* Blog: http://blogger.tempus.org/
+
+
+COPYRIGHT
+--------------------
+
+See: [LICENSE](LICENSE)
